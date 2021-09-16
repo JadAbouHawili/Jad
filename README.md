@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SleepyGuy2003
-- 👀 I’m interested in algorithms ( logic, and specific python details, syntax, and other nuances )
-- 🌱 I’m currently learning python, git, github, github desktop.
+- 👀 I’m interested in python, java, and all the nuances conerning them.
+- 🌱 I’m currently learning python and java.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Email: jad-abou-hawili@hotmail.com
 
